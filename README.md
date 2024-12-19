@@ -13,7 +13,7 @@ Pkg.add("https://github.com/feronromane/Survroso.jl")
 
 ## Usage
 
-Here's a quick example of how to use Survroso.jl to perform Kaplan-Meier estimation and plot survival curves:
+Here's a quick example of how to use Survroso.jl fonctions:
 
 ```julia
 using Survroso
