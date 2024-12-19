@@ -11,10 +11,6 @@ using Pkg
 Pkg.add("https://github.com/feronromane/Survroso.jl")
 ```
 
-
-#### 4. **Exemples d'utilisation**
-Donnez des exemples d'utilisation des principales fonctions de votre package. Montrez comment utiliser les fonctions, quelles données doivent être passées en entrée, et ce que les utilisateurs peuvent attendre comme résultat.
-
 ## Usage
 
 Here's a quick example of how to use Survroso.jl to perform Kaplan-Meier estimation and plot survival curves:
