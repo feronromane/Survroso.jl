@@ -2,8 +2,8 @@ module Survroso
 
 export kaplan_meier
 export visualisation
-export risk_instant_grouped
-export risk_cumulative_grouped
+export risk_instant
+export risk_cumulative
 export plot_censored_distribution
 
 include("kaplanmeier.jl")
